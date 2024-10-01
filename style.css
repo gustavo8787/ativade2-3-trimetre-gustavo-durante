@@ -1,0 +1,14 @@
+body{background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+#ima1{width: 30%;}
+header{font-size: larger;}
+h1, h2, h3{border-color: aquamarine;
+border-width: 5px;
+border-style: double;
+text-align: center;
+}
+h1, h2, h3{color: chocolate;}
+#ima2{width: 25%;}
+
+
